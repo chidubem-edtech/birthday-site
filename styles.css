@@ -245,3 +245,26 @@ footer{
     font-weight: 900;
     text-align: center;
 }
+
+.wrr{
+    background-image: linear-gradient(45deg, #df4881, #c430d7);
+    padding: 15px;
+    color: #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    box-shadow: 0 5px 10px #000;
+}
+
+.main{
+    display: grid;
+    gap: 10px;
+    color: #fff;
+    line-height: -9px;
+}
+
+.footer{
+    height: 40vh;
+    width: 100%;
+}
